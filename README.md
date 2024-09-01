@@ -13,13 +13,16 @@ The EmuDeck Machine case is compatible with the following boards:
 Soon
 
 ### PC Parts
-AMD 8600G
-Gygabyte A620I AX ITX
-Noctua NH-L9A-AM5
-Kingston Fury Beast 16GB
-Samsung 980 1TB NVME
-GameSir Nova Lite
-Link: https://pcpartpicker.com/list/VtBBwg
+| Part |
+|------|
+|	AMD 8600G|	
+|	Gygabyte A620I AX ITX|	
+|	Noctua NH-L9A-AM5|	
+|	Kingston Fury Beast 16GB|	
+|	Samsung 980 1TB NVME|	
+|	GameSir Nova Lite|	
+
+List: https://pcpartpicker.com/list/VtBBwg
 
 ### Cables
 
